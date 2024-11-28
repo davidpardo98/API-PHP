@@ -16,11 +16,11 @@ Una aplicación sencilla para gestionar datos almacenados en una base de datos M
 ## Instalación
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tu_usuario/api-php-mysql.git
+    git clone https://github.com/davidpardo98/API-PHP
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd api-php-mysql
+    cd api-php
     ```
 3. Configura la conexión a la base de datos en el archivo `conexion.php`:
     - Ingresa las credenciales correctas para tu servidor, usuario y contraseña.
