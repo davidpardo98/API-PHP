@@ -33,8 +33,8 @@ Una aplicación sencilla para gestionar datos almacenados en una base de datos M
 3. Utiliza herramientas como Postman para probar las rutas de la API.
 
 ## Estructura del Proyecto
-├── conexion.php # Configuración de la base de datos 
-├── index.php # Punto de entrada principal 
-├── api_visual.php # API para gestionar datos y devolver respuestas JSON 
-├── visual.php # Clase para realizar consultas a la base de datos
+- conexion.php # Configuración de la base de datos 
+- index.php # Punto de entrada principal 
+- api_visual.php # API para gestionar datos y devolver respuestas JSON 
+- visual.php # Clase para realizar consultas a la base de datos
 
